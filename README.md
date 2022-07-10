@@ -58,7 +58,17 @@ for x_train, x_test, y_train, y_test in folds:
 ## Citation
 If you use the dataset in a scientific publication, please cite us using the following bibtex citation:
 ```
-TODO when published
+@Article{jimaging8070191,
+AUTHOR = {Sidiropoulos, George K. and Ouzounis, Athanasios G. and Papakostas, George A. and Lampoglou, Anastasia and Sarafis, Ilias T. and Stamkos, Andreas and Solakis, George},
+TITLE = {Hand-Crafted and Learned Feature Aggregation for Visual Marble Tiles Screening},
+JOURNAL = {Journal of Imaging},
+VOLUME = {8},
+YEAR = {2022},
+NUMBER = {7},
+ARTICLE-NUMBER = {191},
+URL = {https://www.mdpi.com/2313-433X/8/7/191},
+ISSN = {2313-433X}
+}
 ```
 
 [^1]: https://www.solakismarble.com/
