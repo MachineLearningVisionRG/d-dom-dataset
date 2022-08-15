@@ -52,7 +52,7 @@ for x_train, x_test, y_train, y_test in folds:
 ## Related works
 * G. K. Sidiropoulos, A. G. Ouzounis, G. A. Papakostas, I. T. Sarafis, A. Stamkos and G. Solakis, "**Texture Analysis for Machine Learning Based Marble Tiles Sorting**," 2021 IEEE 11th Annual Computing and Communication Workshop and Conference (CCWC), 2021, pp. 0045-0051, doi: 10.1109/CCWC51732.2021.9376086.
 * A. G. Ouzounis, G. Taxopoulos, G. A. Papakostas, I. T. Sarafis, A. Stamkos, and G. Solakis, **“Marble quality assessment with deep learning regression**,” in 2021 fifth international conference on intelligent computing in data sciences (ICDS, 2021, pp. 1–5. doi: 10.1109/ICDS53782.2021.9626726.
-* Athanasios Ouzounis, G. Sidiropoulos, G. Papakostas, I. Sarafis, A. Stamkos, and G. Solakis, **“Interpretable Deep Learning for Marble Tiles Sorting**,” in Proceedings of the 2nd International Conference on Deep Learning Theory and Applications, Online Streaming, --- Select a Country ---, 2021, pp. 101–108. doi: 10.5220/0010517001010108.
+* Athanasios Ouzounis, G. Sidiropoulos, G. Papakostas, I. Sarafis, A. Stamkos, and G. Solakis, **“Interpretable Deep Learning for Marble Tiles Sorting**,” in Proceedings of the 2nd International Conference on Deep Learning Theory and Applications, Online Streaming, 2021, pp. 101–108. doi: 10.5220/0010517001010108.
 * G. K. Sidiropoulos et al., "**Exploiting Deep Metric Learning for Mable Quality Assessment with Small and Imbalanced Image Data**," 2021 IEEE 12th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), 2021, pp. 0266-0269, doi: 10.1109/IEMCON53756.2021.9623255.
 
 ## Citation
